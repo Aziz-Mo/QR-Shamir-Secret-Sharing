@@ -4,5 +4,3 @@ PyQRCode==1.2.1
 $ pip install secretsharing 
 $ pip install pyqrcode
 
-#Canges to the secretsharing
-Changes that must be done before running the share.py and recover.py
